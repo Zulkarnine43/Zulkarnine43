@@ -6,14 +6,14 @@
 - 🔭 I’m currently seeking ... a job or internship
 - 🌱 I’m currently learning ... frontend framework--ReactJS, VueJS
 - 💬 Complete learning ...   
- -> Programming Language: PHP, Java, JavaScript  
- -> Front End: HTML, CSS 
- -> Database: MySQL 
- -> Application Design Model: MVC
- -> Front End Framework: Vue.Js, Bootstrap, jQuery
- -> Back End Framework: Laravel Framework
- -> Version Control: Git
- -> API: Rest API
- -> Other: Good understand in OOP concept
+ - Programming Language: PHP, Java, JavaScript  
+ - Front End: HTML, CSS 
+ - Database: MySQL 
+ - Application Design Model: MVC
+ - Front End Framework: Vue.Js, Bootstrap, jQuery
+ - Back End Framework: Laravel Framework
+ - Version Control: Git
+ - API: Rest API
+ - Other: Good understand in OOP concept
 
 - ⚡ Ask me about: ... I spend almost 2 years learning Web Development
