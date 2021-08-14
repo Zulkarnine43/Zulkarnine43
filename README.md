@@ -24,11 +24,11 @@
 
 -💬 How to reach me **zulkarnine43@gmail.com**
 
--💬 All of my projects are available at [https://zulkarnine43.github.io/portfolio/](https://zulkarnine43.github.io/portfolio/)
+-💬 All of my projects are available at [https://github.com/Zulkarnine43](https://github.com/Zulkarnine43)
 
 
 
--💬 Know about my experiences [https://www.linkedin.com/in/zulkar-nine-065a87173/](https://www.linkedin.com/in/zulkar-nine-065a87173/)
+-💬 Know about my experiences [https://zulkarnine43.github.io/portfolio/](https://zulkarnine43.github.io/portfolio/)
 
 -💬 Fact **I believes hard working, honesty and good working make success**
 
