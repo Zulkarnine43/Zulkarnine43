@@ -4,23 +4,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zulkarnine43" alt="zulkarnine43" /></a> </p>
 
--💬 Programming Language:... **PHP, Java, JavaScript**
+-💬 Programming Language:... **PHP, JavaScript**
 
 -💬  Front End:... **HTML, CSS**
 
 -💬 Database:... **MySQL**
 
--💬 Front End Framework:... **Vue.Js, Bootstrap, jQuery**
+-💬 Front End Framework:... ** Bootstrap, jQuery, Vue.Js**
 
 -💬 Back End Framework:... **Laravel Framework**
 
 -💬 API:... **Rest API**
 
--💬 I’m currently learning **ReactJs framework**
-
 -💬 I’m looking for **Job**
 
--💬 Ask me about **Laravel, Vue**
+-💬 Ask me about **Laravel**
 
 -💬 How to reach me **zulkarnine43@gmail.com**
 
@@ -43,7 +41,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zulkarnine43&show_icons=true&locale=en&layout=compact" alt="zulkarnine43" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zulkarnine43&show_icons=true&locale=en" alt="zulkarnine43" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zulkarnine43&show_icons=true&locale=en" alt="zulkarnine43" /></p> -->
 
 
 
