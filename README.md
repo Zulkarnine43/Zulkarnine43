@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zulkarnine43" alt="zulkarnine43" /></a> </p>
 
--💬 Programming Language:... **PHP, JavaScript**
+-💬 Programming Language:... **C, Java, PHP, JavaScript**
 
 -💬 Front End:... **HTML, CSS, AJAX**
 
@@ -24,7 +24,7 @@
 
 -💬 All of my projects are available at [https://github.com/Zulkarnine43](https://github.com/Zulkarnine43)
 
--💬 Know about my experiences [https://zulkarnine43.github.io/portfolio/](https://zulkarnine43.github.io/portfolio/)
+-💬 Portfolio Website [https://zulkarnine43.github.io/portfolio/](https://zulkarnine43.github.io/portfolio/)
 
 -💬 Fact **I believes hard working, honesty and good working make success**
 
