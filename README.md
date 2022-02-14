@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Zulkar Nine 👋</h1>
 <h3 align="center">Complete Bachelor of Computer Science & Engineer(BCSE) graduate, specialized in Web developer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zulkarnine43" alt="zulkarnine43" /></a> </p>
+
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zulkarnine43" alt="zulkarnine43" /></a> </p> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zulkarnine43&theme=flat" alt="zulkarnine43" /></a> </p>
 
 -💬 Programming Language:... **C, Java, PHP, JavaScript**
 
