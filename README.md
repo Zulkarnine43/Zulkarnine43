@@ -22,7 +22,7 @@
 
 -💬 Portfolio Website [https://zulkarnine43.github.io/portfolio/](https://zulkarnine43.github.io/portfolio/)
 
--💬 Fact **I believes hard working, honesty and good working makes success**
+-💬 Fact **I believes honesty & hard working  makes success**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
