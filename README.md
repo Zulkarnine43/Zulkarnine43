@@ -24,7 +24,7 @@
 
 -💬 Fact **I believes honesty & hard working  makes success**
 
--💬 Fun fact I never sleep when i'm tired. I sleep only when i'm Done!
+-💬 Fun fact **I never sleep when i'm tired. I sleep only when i'm Done!**
 
 
 <h3 align="left">Connect with me:</h3>
