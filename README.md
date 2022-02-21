@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zulkarnine43&theme=flat" alt="zulkarnine43" /></a> </p>
 
 -💬 Ask me about **Web Design and Development**
-<!-- 
+
 -💬 Programming Language:... **C, Java, PHP, JavaScript**
 
 -💬 Front End:... **HTML, CSS, AJAX**
@@ -13,7 +13,7 @@
 -💬 Back End Framework:... **Laravel Framework**
 
 -💬 Front End Framework:... ** Bootstrap, jQuery, Vue.JS**
-
+<!-- 
 -💬 Database:... **MySQL**
 
 -💬 API:... **Rest API** -->
