@@ -4,18 +4,22 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zulkarnine43&theme=flat" alt="zulkarnine43" /></a> </p>
 
--💬 Ask me about **Web Design and Development**
+-💬 Ask me about **full stack Backend heavy web developer**
 
--💬 Programming Language:... **C, Java, PHP, JavaScript**
+-💬 Programming Language:... **TypeScript, JavaScript, PHP, C**
 
--💬 Front End:... **HTML, CSS, AJAX**
+-💬 Front End:... **VueJS, Bootstrap, Element UI, HTML, CSS, Tailwind, Ajax, jQuery**
 
--💬 Back End Framework:... **Laravel Framework**
+-💬 Back End Framework:... **NodeJS, NestJS, PHP, Laravel**
 
--💬 Front End Framework:... ** Bootstrap, jQuery, Vue.JS**
+-💬 Front End Framework:... **Vue.JS**
+
+-💬 Database:... **MySQL, MongoDB, PostgreSQL, SQLite, Redis**
+
+-💬 Others:... **AWS, EC2, S3, RDS, REST API, CI/CD, Socket.io, RabbitMQ, MediaSoft Integration, Microservice, Elastic search**
+
+-💬 Tools:... **Linux, Nginx, Git, Jira, Docker, Cpanel, Postman**
 <!-- 
--💬 Database:... **MySQL**
-
 -💬 API:... **Rest API** -->
 
 -💬 How to reach me **zulkarnine43@gmail.com**
